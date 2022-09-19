@@ -1,4 +1,4 @@
-## Git commands
+## Git commands ![GitHub Logo](/images/logo.png)
 git командуудын тайлбар,тусламж 
 
 
