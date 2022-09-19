@@ -1,4 +1,4 @@
-## Git commands
+## Git commands :collision:
 git командуудын тайлбар,тусламж 
 
 
