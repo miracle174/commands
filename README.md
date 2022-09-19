@@ -1,8 +1,12 @@
-## Git commands ![GitHub Logo](/images/logo.png)
+## Git commands
 git командуудын тайлбар,тусламж 
 
 
-## Командуудын жагсаалт
+## Командуудын жагсаалт 
+function test() {
+ console.log("look ma’, no spaces");
+}
+
 'git add *' **Бүх шинэ болон өөрчлөгдсөн файлуудыг стэйжилнэ**
 
 'git add . *' **Бүх шинэ болон өөрчлөгдсөн файлуудыг стэйжилнэ**
