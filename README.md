@@ -1,4 +1,4 @@
-## Git commands :collision:
+## Git commands /play rumble
 git командуудын тайлбар,тусламж 
 
 
