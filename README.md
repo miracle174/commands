@@ -1,4 +1,4 @@
-## Git commands /play rumble
+## Git commands :smile:
 git командуудын тайлбар,тусламж 
 
 
