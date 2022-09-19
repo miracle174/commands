@@ -1,4 +1,4 @@
-## Git commands :smile:
+## Git commands :octocat:
 git командуудын тайлбар,тусламж 
 
 
