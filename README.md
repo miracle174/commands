@@ -2,7 +2,7 @@
 git командуудын тайлбар,тусламж 
 
 
-## Командуудын жагсаалт 
+## Командуудын жагсаалт :dizzy:
 ```javascript
 function test() {
  console.log("look ma’, no spaces");
